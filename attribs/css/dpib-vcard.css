@@ -1,0 +1,15 @@
+.vcard {
+    width:100%;
+    height:130px;
+}
+
+.vcard > .contact {
+    width:50%;
+    float:left;
+}
+
+.vcard strong {font-weight:bold;}
+
+.vcard .dpib-logo {
+    float:right;
+}

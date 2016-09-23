@@ -1,0 +1,11 @@
+body.login div#login h1 a {
+    display:block;
+    width:166px;
+    height:115px;
+    background-size:100%;
+}
+
+.vcard {
+    width:100%;
+    height:130px;
+}
